@@ -1,0 +1,6 @@
+# python -> 3.7
+
+tensorflow-gpu==2.4
+numpy
+pandas
+livelossplot
