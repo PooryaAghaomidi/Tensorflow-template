@@ -1,6 +1,6 @@
 # MNIST Image Classification with TensorFlow OOP
 
-This repository contains a template for an MNIST image classification project using TensorFlow and an object-oriented programming (OOP) approach. The structure is designed to be reusable for future deep learning projects.
+This repository contains a template for deep learning projects using TensorFlow with object-oriented programming (OOP) approach. MNIST image classification has been done as a sample project. The structure is designed to be reusable for future deep learning projects.
 
 
 ## Table of Contents
